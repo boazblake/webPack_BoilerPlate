@@ -3,7 +3,7 @@ Start your own project folder with a git clone, and if you plan to push this clo
 
 cd ~/Github\ Projects/
 
-git clone git@github.com:boazblake/boilerplate.git NEWPROJECT
+git clone git@github.com:boazblake/webPack_BoilerPlate.git NEWPROJECT
 
 cd NEWPROJECT
 
